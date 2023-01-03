@@ -9,46 +9,6 @@
             "imageUrl": "https://robohash.org/Skyllo.png",
             "creationDate": "2023/01/01",
             "isFavorited": true
-        },
-        {
-            "name": "tito",
-            "speed": "2",
-            "toughness": "3",
-            "creationUser": "Bea",
-            "id": "484837",
-            "imageUrl": "https://robohash.org/tito.png",
-            "creationDate": "2023/01/01",
-            "isFavorited": true
-        },
-        {
-            "name": "tita",
-            "speed": "1",
-            "toughness": "1",
-            "creationUser": "Bea",
-            "id": "014657",
-            "imageUrl": "https://robohash.org/tita.png",
-            "creationDate": "2023/01/01",
-            "isFavorited": false
-        },
-        {
-            "name": "Dillo",
-            "speed": "3",
-            "toughness": "5",
-            "creationUser": "Marco",
-            "id": "908532",
-            "imageUrl": "https://robohash.org/Dillo.png",
-            "creationDate": "2023/01/02",
-            "isFavorited": false
-        },
-        {
-            "name": "EE",
-            "speed": "3",
-            "toughness": "3",
-            "creationUser": "Marco",
-            "id": "808228",
-            "imageUrl": "https://robohash.org/EE.png",
-            "creationDate": "2023/01/02",
-            "isFavorited": false
         }
     ]
 }
