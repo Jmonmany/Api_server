@@ -1,14 +1,4 @@
 {
     "robots": [
-        {
-            "name": "Skyllo",
-            "speed": "2",
-            "toughness": "2",
-            "creationUser": "Mar",
-            "id": "059931",
-            "imageUrl": "https://robohash.org/Skyllo.png",
-            "creationDate": "2023/01/01",
-            "isFavorited": true
-        }
     ]
 }

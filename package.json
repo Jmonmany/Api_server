@@ -1,5 +1,5 @@
 {
-    "name": "api_test",
+    "name": "api_server",
     "version": "1.0.0",
     "description": "Api for BootCamp Test",
     "main": "index.js",
@@ -8,14 +8,14 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/Michaeldam88/test_api.git"
+        "url": "git+https://github.com/Jmonmany/Api_server.git"
     },
     "author": "",
     "license": "ISC",
     "bugs": {
-        "url": "https://github.com/Michaeldam88/test_api/issues"
+        "url": "https://github.com/Jmonmany/Api_server/issues"
     },
-    "homepage": "https://github.com/Michaeldam88/test_api#readme",
+    "homepage": "https://github.com/Jmonmany/Api_server#readme",
     "dependencies": {
         "json-serve": "^0.1.0",
         "json-server": "^0.17.1"
