@@ -3,7 +3,7 @@
         {
             "name": "tita",
             "speed": "1",
-            "toughness": "1",
+            "endurance": "1",
             "creationUser": "Bea",
             "id": "014657",
             "imageUrl": "https://robohash.org/tita.png",
