@@ -1,5 +1,78 @@
 {
     "characters": [
+        {
+            "name": "Joffrey",
+            "family": "Baratheon",
+            "age": 18,
+            "imageUrl": "./assets/img/joffrey.jpg",
+            "message": "You are all going to die",
+            "id": "734582",
+            "state": true,
+            "yearsOfReign": 1
+        },
+        {
+            "name": "Jaime",
+            "family": "Lannister",
+            "age": 45,
+            "imageUrl": "./assets/img/jaime.jpg",
+            "message": "First I hit and then I ask",
+            "id": "924179",
+            "state": true,
+            "weapon": "Sword",
+            "dexterity": 5
+        },
+        {
+            "name": "Tyrion",
+            "family": "Lannister",
+            "age": 35,
+            "imageUrl": "./assets/img/tyrion.jpg",
+            "message": "I don't know why, but I think I'm going to die soon",
+            "id": "247745",
+            "state": true,
+            "advising": {
+                "name": "Daenerys",
+                "family": "Targaryen",
+                "age": 25,
+                "imageUrl": "./assets/img/daenerys.jpg",
+                "message": "First I hit and then I ask",
+                "id": "525330",
+                "state": true,
+                "weapon": "Dragon",
+                "dexterity": 10
+            }
+        },
+        {
+            "name": "Bronn",
+            "family": "",
+            "age": 40,
+            "imageUrl": "./assets/img/bronn.jpg",
+            "message": "I'm a loser",
+            "id": "660045",
+            "state": true,
+            "serving": {
+                "name": "Jaime",
+                "family": "Lannister",
+                "age": 45,
+                "imageUrl": "./assets/img/jaime.jpg",
+                "message": "First I hit and then I ask",
+                "id": "924179",
+                "state": true,
+                "weapon": "Sword",
+                "dexterity": 5
+            },
+            "degreeOfSuckingUp": 8
+        },
+        {
+            "name": "Daenerys",
+            "family": "Targaryen",
+            "age": 25,
+            "imageUrl": "./assets/img/daenerys.jpg",
+            "message": "First I hit and then I ask",
+            "id": "525330",
+            "state": true,
+            "weapon": "Dragon",
+            "dexterity": 10
+        }
     ],
     "robots": [
         {
