@@ -14,7 +14,7 @@
             "name": "Jaime",
             "family": "Lannister",
             "age": 45,
-            "imageUrl": "./assets/img/jaime.jpg",
+            "imageUrl": "../public/img/jaime.jpg",
             "message": "First I hit and then I ask",
             "id": "924179",
             "state": true,
@@ -45,7 +45,7 @@
             "name": "Bronn",
             "family": "",
             "age": 40,
-            "imageUrl": "./assets/img/bronn.jpg",
+            "imageUrl": "../../../../public/img/bronn.jpg",
             "message": "I'm a loser",
             "id": "660045",
             "state": true,
@@ -66,7 +66,7 @@
             "name": "Daenerys",
             "family": "Targaryen",
             "age": 25,
-            "imageUrl": "./assets/img/daenerys.jpg",
+            "imageUrl": "./img/daenerys.jpg",
             "message": "First I hit and then I ask",
             "id": "525330",
             "state": true,
@@ -76,64 +76,64 @@
     ],
     "robots": [
         {
-    "name": "X-Francisco Franco",
-    "imageUrl": "https://robohash.org/X-Francisco Franco.png",
-    "speed": "1",
-    "endurance": "10",
-    "creationUser": "España",
-    "id": "386723",
-    "isFavourite": false,
-    "creationDate": "4/1/2023, 16:47:20"
-  },
-  {
-    "name": "X-Adolf Hitler",
-    "imageUrl": "https://robohash.org/X-Adolf Hitler.png",
-    "speed": "2",
-    "endurance": "10",
-    "creationUser": "Deutschland",
-    "id": "569231",
-    "isFavourite": false,
-    "creationDate": "4/1/2023, 16:47:52"
-  },
-  {
-    "name": "X-Benito Mussolini",
-    "imageUrl": "https://robohash.org/X-Benito Mussolini.png",
-    "speed": "2",
-    "endurance": "6",
-    "creationUser": "Italia",
-    "id": "297358",
-    "isFavourite": false,
-    "creationDate": "4/1/2023, 16:48:46"
-  },
-  {
-    "name": "X-Mao Zedong",
-    "imageUrl": "https://robohash.org/X-Mao Zedong.png",
-    "speed": "5",
-    "endurance": "5",
-    "creationUser": "China",
-    "id": "292664",
-    "isFavourite": false,
-    "creationDate": "4/1/2023, 16:49:26"
-  },
-  {
-    "name": "X-Vladimir Putin ",
-    "imageUrl": "https://robohash.org/X-Vladimir Putin .png",
-    "speed": "10",
-    "endurance": "10",
-    "creationUser": "Rusia",
-    "id": "112020",
-    "isFavourite": false,
-    "creationDate": "4/1/2023, 16:50:04"
-  },
-  {
-    "name": "X-Sadam Hussein",
-    "imageUrl": "https://robohash.org/X-Sadam Hussein.png",
-    "speed": "1",
-    "endurance": "1",
-    "creationUser": "Irak",
-    "id": "135062",
-    "isFavourite": false,
-    "creationDate": "4/1/2023, 16:50:38"
-  }
+            "name": "X-Francisco Franco",
+            "imageUrl": "https://robohash.org/X-Francisco Franco.png",
+            "speed": "1",
+            "endurance": "10",
+            "creationUser": "España",
+            "id": "386723",
+            "isFavourite": false,
+            "creationDate": "4/1/2023, 16:47:20"
+        },
+        {
+            "name": "X-Adolf Hitler",
+            "imageUrl": "https://robohash.org/X-Adolf Hitler.png",
+            "speed": "2",
+            "endurance": "10",
+            "creationUser": "Deutschland",
+            "id": "569231",
+            "isFavourite": false,
+            "creationDate": "4/1/2023, 16:47:52"
+        },
+        {
+            "name": "X-Benito Mussolini",
+            "imageUrl": "https://robohash.org/X-Benito Mussolini.png",
+            "speed": "2",
+            "endurance": "6",
+            "creationUser": "Italia",
+            "id": "297358",
+            "isFavourite": false,
+            "creationDate": "4/1/2023, 16:48:46"
+        },
+        {
+            "name": "X-Mao Zedong",
+            "imageUrl": "https://robohash.org/X-Mao Zedong.png",
+            "speed": "5",
+            "endurance": "5",
+            "creationUser": "China",
+            "id": "292664",
+            "isFavourite": false,
+            "creationDate": "4/1/2023, 16:49:26"
+        },
+        {
+            "name": "X-Vladimir Putin ",
+            "imageUrl": "https://robohash.org/X-Vladimir Putin .png",
+            "speed": "10",
+            "endurance": "10",
+            "creationUser": "Rusia",
+            "id": "112020",
+            "isFavourite": false,
+            "creationDate": "4/1/2023, 16:50:04"
+        },
+        {
+            "name": "X-Sadam Hussein",
+            "imageUrl": "https://robohash.org/X-Sadam Hussein.png",
+            "speed": "1",
+            "endurance": "1",
+            "creationUser": "Irak",
+            "id": "135062",
+            "isFavourite": false,
+            "creationDate": "4/1/2023, 16:50:38"
+        }
     ]
 }
